@@ -57,7 +57,7 @@ Se usan dos meses de 2025 y dos flotas:
 ```bash
 # 1. Clonar el repositorio
 git clone <url-del-repo>
-cd taxi_app.ai
+cd taxi-app-ai
 
 # 2. Crear entorno virtual
 python -m venv .venv
